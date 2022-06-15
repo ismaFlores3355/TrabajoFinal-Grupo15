@@ -1,0 +1,22 @@
+#header-principal{
+	/*display: flex;*/
+	min-height:200px;
+	/*margin: 10px;*/
+	background-color: #cce0ff;
+}
+header p{
+	font-family: sans-serif;
+	font-style: italic;
+	font-size: 12px;
+
+}
+
+#logo{
+	display:flex;
+	float: right;
+	width: 300px;
+	height:150px;
+}
+
+
+
