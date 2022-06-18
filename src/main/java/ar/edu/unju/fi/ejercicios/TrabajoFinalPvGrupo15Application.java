@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
-@ComponentScan(basePackages = {"ar.edu.unju.fi.controller"})
+@ComponentScan(basePackages = {"ar.edu.unju.fi.controller","ar.edu.unju.fi.entity"})
 public class TrabajoFinalPvGrupo15Application {
 
 	public static void main(String[] args) {

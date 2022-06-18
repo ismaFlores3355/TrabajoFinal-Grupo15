@@ -10,6 +10,7 @@ public class ListaProvincia {
 
 
 	public ListaProvincia() {
+
 		provincias.add(new Provincia("Buenos Aires"));
 		provincias.add(new Provincia("Catamarca"));
 		provincias.add(new Provincia("Chacho"));
